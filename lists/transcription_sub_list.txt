@@ -1,0 +1,10 @@
+/music/jom/S2S_Project/10_Lectures_translations/data/108106167_lec001/108106167_lec001_hi.txt	/music/jom/S2S_Project/10_Lectures_translations/data/108106167_lec001/108106167_lec001_hi_sub.txt
+/music/jom/S2S_Project/10_Lectures_translations/data/108106167_lec007/108106167_lec007_hi.txt	/music/jom/S2S_Project/10_Lectures_translations/data/108106167_lec007/108106167_lec007_hi_sub.txt
+/music/jom/S2S_Project/10_Lectures_translations/data/109104108_lec011/109104108_lec011_hi.txt	/music/jom/S2S_Project/10_Lectures_translations/data/109104108_lec011/109104108_lec011_hi_sub.txt
+/music/jom/S2S_Project/10_Lectures_translations/data/109104108_lec012/109104108_lec012_hi.txt	/music/jom/S2S_Project/10_Lectures_translations/data/109104108_lec012/109104108_lec012_hi_sub.txt
+/music/jom/S2S_Project/10_Lectures_translations/data/109106177_lec005/109106177_lec005_hi.txt	/music/jom/S2S_Project/10_Lectures_translations/data/109106177_lec005/109106177_lec005_hi_sub.txt
+/music/jom/S2S_Project/10_Lectures_translations/data/109106177_lec006/109106177_lec006_hi.txt	/music/jom/S2S_Project/10_Lectures_translations/data/109106177_lec006/109106177_lec006_hi_sub.txt
+/music/jom/S2S_Project/10_Lectures_translations/data/110101145_lec005/110101145_lec005_hi.txt	/music/jom/S2S_Project/10_Lectures_translations/data/110101145_lec005/110101145_lec005_hi_sub.txt
+/music/jom/S2S_Project/10_Lectures_translations/data/110101145_lec006/110101145_lec006_hi.txt	/music/jom/S2S_Project/10_Lectures_translations/data/110101145_lec006/110101145_lec006_hi_sub.txt
+/music/jom/S2S_Project/10_Lectures_translations/data/112105294_lec004/112105294_lec004_hi.txt	/music/jom/S2S_Project/10_Lectures_translations/data/112105294_lec004/112105294_lec004_hi_sub.txt
+/music/jom/S2S_Project/10_Lectures_translations/data/112105294_lec006/112105294_lec006_hi.txt	/music/jom/S2S_Project/10_Lectures_translations/data/112105294_lec006/112105294_lec006_hi_sub.txt

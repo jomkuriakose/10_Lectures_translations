@@ -1,0 +1,1 @@
+cd unified-parser; ./unified-parser "इलेक्ट्रोमाग्नेटिक्स" 1 1 0 0; cd ..
